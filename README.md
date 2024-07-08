@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="Hugging Face Emoji" src="https://github.com/floriankark/SelfImprovementSMILESTransformer/Images/HuggingFaceDoingChemistry.png" width="30%">
+    <img alt="Hugging Face Emoji" src="https://github.com/floriankark/SelfImprovementSMILESTransformer/blob/main/Images/HuggingFaceDoingChemistry.png" width="30%">
   </picture>
   <br/>
   <br/>
